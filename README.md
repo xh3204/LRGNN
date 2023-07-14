@@ -10,6 +10,7 @@ Speedup Robust Graph Structure Learning with Low-Rank Information
 4. pip install -U tensorly
 5. pip install deeprobust
 6. pip install torch_geometric
+7. pip install torch_sparse -f https://data.pyg.org/whl/torch-1.12.1+cu113.html
 
 ## How to run
 ```bash
